@@ -5,10 +5,10 @@ Repositório que contém os dados de informações meteológicas, regionais e í
 
 # Fontes
 
-- IBGE
-- Aneel
-- Sigel (Aneel)
-- INMET
+- IBGE - Dados geográficas (características das regiões) e dados de litoraniedade
+- Aneel - Dados de Interrupções
+- Sigel (Aneel) -  Informações da área geográfica de Conjuntos Elétricos
+- INMET -  Dados Meteorológicos
 
 # Informacoes Adicionais
 
