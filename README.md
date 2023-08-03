@@ -12,4 +12,4 @@ Repositório que contém os dados de informações meteológicas, regionais e í
 
 # Informacoes Adicionais
 
-- Os dados apresentam estrutura temporal de agregação mensal e por conjuntos elétricos (SIGEL). Para serem requeridos dados em outras estruturas por favor, entrar em contato com o email dos resposáveis.
+- Os dados apresentam estrutura temporal de agregação mensal e por conjuntos elétricos (estrutura SIGEL). Para serem requeridos dados em outras estruturas por favor, entrar em contato com o email dos resposáveis.
