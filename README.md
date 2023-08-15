@@ -5,11 +5,11 @@ Repositório que contém os dados de informações meteológicas, regionais e í
 
 # Fontes
 
-- IBGE - Dados geográficas (características das regiões), Dados de Classificação de Vegetação e dados de litoraniedade;
-- Aneel - Dados de Interrupções;
-- Sigel (Aneel) -  Informações da área geográfica de Conjuntos Elétricos;
-- INMET -  Dados Meteorológicos.
-- INPE - Instituto Nacional de Pesquisas Espaciais
+- IBGE (Instituto Brasileiro de Geografia e Estatística) - Dados geográficas (características das regiões), Dados de Classificação de Vegetação e dados de litoraniedade;
+- ANEEL (Agência Nacional de Energia Elétrica) - Dados de Interrupções;
+- SIGEL/ANEEL (Sistema de Informações Georreferenciadas do Setor Elétrico) -  Informações da área geográfica de Conjuntos Elétricos;
+- INMET (Instituto Nacional de Meteorologia) -  Dados Meteorológicos;
+- INPE (Instituto Nacional de Pesquisas Espaciais) - Dados de Porcentagem de cobertura arbórea (em desenvolvimento).
 
 # Informacoes Adicionais
 
