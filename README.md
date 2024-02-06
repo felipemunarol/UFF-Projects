@@ -5,7 +5,7 @@ Esse repositório é destinado a projetos da UFF, tendo o objetivo de compartilh
 
 # Bases de Dados
 
-## Dados Meteorológicos, socioeconômicos e de caracacterísticas geográficas regionais por unidade consumidora (ANEEL), em agregação mensal.
+## 1. Dados Meteorológicos, socioeconômicos e de caracacterísticas geográficas regionais por unidade consumidora (ANEEL), em agregação mensal.
 
 Estes dados são coletados de diversas fontes de dados públicas e são destinados ao exercicício de modelagem ou análise de dados. A base contém os dados de informações meteológicas, da geografica regional e índices econômicos por Conjunto Elétrico Brasileiro (ANEEL) e mês.
 As fontes públicas em que são coletados, são:
@@ -21,4 +21,4 @@ Os dados apresentam estrutura temporal de agregação mensal e por conjuntos el�
 
 # Códigos
 
-....
+1. Na pasta src encontram-se os códigos que foram utilizados para a criação da metologia.
