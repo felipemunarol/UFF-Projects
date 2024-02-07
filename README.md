@@ -26,7 +26,7 @@ A continuidade no fornecimento de energia elétrica é uma preocupação constan
 
 ### 1. Dados Meteorológicos, socioeconômicos e de caracacterísticas geográficas regionais por unidade consumidora (ANEEL), em agregação mensal.
 
-Estes dados são coletados de diversas fontes de dados públicas e são destinados ao exercicício de modelagem ou análise de dados. A base contém os dados de informações meteológicas, da geografica regional e índices econômicos por Conjunto Elétrico Brasileiro (ANEEL) e mês.
+Estes [dados](https://github.com/felipemunarol/UFF-Projects/tree/main/bases_dados) são coletados de diversas fontes de dados públicas e são destinados ao exercicício de modelagem ou análise de dados. A base contém os dados de informações meteológicas, da geografica regional e índices econômicos por Conjunto Elétrico Brasileiro (ANEEL) e mês.
 As fontes públicas em que são coletados, são:
 
 - IBGE (Instituto Brasileiro de Geografia e Estatística) - Dados geográficas (características das regiões), Dados de Classificação de Vegetação e dados de litoraniedade;
@@ -40,5 +40,5 @@ Os dados apresentam estrutura temporal de agregação mensal e por conjuntos el�
 
 ## Códigos
 
-Na pasta src encontram-se os códigos que foram utilizados para a criação da metologia. Sendo estes dividos entre i) coleta de dados ii) processamento dos dados iii) modelagem, previsão e simulação.
+Na pasta [src](https://github.com/felipemunarol/UFF-Projects/tree/main/src) encontram-se os códigos que foram utilizados para a criação da metologia. Sendo estes dividos entre i) coleta de dados ii) processamento dos dados iii) modelagem, previsão e simulação.
    
