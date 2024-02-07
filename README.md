@@ -54,6 +54,8 @@ Os dados apresentam estrutura temporal de agregação mensal e por conjuntos el�
 ## Códigos
 
 Na pasta [src](https://github.com/felipemunarol/UFF-Projects/tree/main/src) encontram-se os códigos que foram utilizados para a criação da metologia. Sendo estes dividos entre i) coleta de dados ii) processamento dos dados iii) modelagem, previsão e simulação.
+
+Obs. Alguns notebooks referentes a o webscrapping nao estao na pasta. Por favor, entrar em contato com o reponsável, para solicitar sua utilização.
    
 ## Author Information
 
@@ -63,3 +65,6 @@ Na pasta [src](https://github.com/felipemunarol/UFF-Projects/tree/main/src) enco
 | Content Cell  | felipemunarolima@gmail.com |
 | Version  | As of 07/02/2024 |
 
+## Suporte
+
+Qualquer suporte deve ser solicitado ao autor do conjunto de dados. Para utilizações empresariais é necessário ser solicitado.
