@@ -66,7 +66,7 @@ Obs. Alguns notebooks referentes a o webscrapping nao estao na pasta. Por favor,
 
 ## Dedicatória
 
-Este trabalho é um esforço conjunto entre o Instituo INERGE, a Universidade Federal Fluminense (UFF) e o laboratório FRIENDS para o atendimento a necessidades de empresas privadas de distribuição de Energia. 
+Este trabalho é um esforço conjunto entre o Instituo INERGE, a Universidade Federal Fluminense (UFF) e o laboratório FRIENDS para o atendimento a necessidades de problemas atuais de empresas privadas de distribuição de Energia. 
 
 ## Suporte
 
