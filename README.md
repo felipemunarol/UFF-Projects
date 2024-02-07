@@ -46,6 +46,8 @@ As fontes públicas em que são coletados, são:
 - INMET (Instituto Nacional de Meteorologia) -  Dados Meteorológicos;
 - INPE (Instituto Nacional de Pesquisas Espaciais) - Dados de Porcentagem de cobertura arbórea (em desenvolvimento).
 
+Na pasta existem os arquivos por Conjunto Elétrico Brasileiro (ANEEL) e mês. Com a descrição base_{ano}.xlsx.
+
 Os dados apresentam estrutura temporal de agregação mensal e por conjuntos elétricos (estrutura SIGEL). Para serem requeridos dados em outras estruturas por favor, entrar em contato no email dos resposáveis.
 
 
