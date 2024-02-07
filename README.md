@@ -7,10 +7,12 @@ Esse repositório é destinado a projetos de pesquisa da UFF, tendo como objetiv
 
 ###**Descriçao do Projeto:**
 
-**O projeto se destinou a criação de um modelo baseando-se em dados de livre acesso para a projeção da quantidade de interrupções em conjuntos de unidades consumidoras de distribuidoras do Brasil**. É criada, primeiramente, a etapa de ingestão de dados com um algoritmo
+**O projeto se destinou a criação de um modelo baseando-se em dados de livre acesso para a projeção da quantidade de interrupções em conjuntos de unidades consumidoras de distribuidoras do Brasil**. 
+
+É criada, primeiramente, a etapa de ingestão de dados com um algoritmo
 que realiza a coleta de diversas fontes de livre acesso por webscrapping e a inclusão manual de determinadas bases de informações.
 
-Após, é estruturado o processamento dos dados, com o método de previsão e suporte a tomada de decisão desenvolvido. Sendo este caracterizado por um modelo de regressão linear múltipla, sendo comparados os seus resultados com um modelo sazonal ingênuo simples (este modelo considera que todas as interrupções
+Após, é estruturado o processamento dos dados, com o método de previsão e suporte a tomada de decisão que foi desenvolvido. Sendo este caracterizado por um modelo de regressão linear múltipla, sendo comparados os seus resultados com um modelo sazonal ingênuo simples (este modelo considera que todas as interrupções
 em anos anteriores serão iguais para o próximo ano, repetindo suas quantidades nos mesmos meses)
 
 O resultado final é gerado para todas distribuidoras do Brasil e algumas destas empresas são selecionadas para realização de testes específicos.
