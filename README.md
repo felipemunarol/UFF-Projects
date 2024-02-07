@@ -7,9 +7,9 @@ Esse repositório é destinado a projetos de pesquisa da UFF, tendo como objetiv
 
 # Pontos Abordados:
 
-- https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#descri%C3%A7ao-do-projeto
-- https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#breve-introdu%C3%A7%C3%A3o-ao-projeto
-- https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#bases-de-dados
+- [Descrição do Projeto](https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#descri%C3%A7ao-do-projeto)
+- [Breve Introdução ao Projeto](https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#breve-introdu%C3%A7%C3%A3o-ao-projeto)
+- [Bases de Dados](https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#bases-de-dados)
 
 
 ### **Descriçao do Projeto:**
