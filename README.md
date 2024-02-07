@@ -5,6 +5,13 @@ Esse repositório é destinado a projetos de pesquisa da UFF, tendo como objetiv
 
 # Projeto de Projeção da Quantidade de Interrupções em Conjuntos Elétricos para Distribuidoras brasileiras
 
+# Pontos Abordados:
+
+- https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#descri%C3%A7ao-do-projeto
+- https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#breve-introdu%C3%A7%C3%A3o-ao-projeto
+- https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#bases-de-dados
+
+
 ### **Descriçao do Projeto:**
 
 **O projeto se destinou a criação de um modelo baseando-se em dados de livre acesso para a projeção da quantidade de interrupções em conjuntos de unidades consumidoras de distribuidoras do Brasil**. É criada, primeiramente, a etapa de ingestão de dados com um algoritmo
@@ -26,7 +33,7 @@ Esta previsão pode servir de apoio à tomada de decisão em diversos processos 
 
 
 
-## Bases de Dados
+### Bases de Dados
 
 ### 1. Dados Meteorológicos, socioeconômicos e de caracacterísticas geográficas regionais por unidade consumidora (ANEEL), em agregação mensal.
 
