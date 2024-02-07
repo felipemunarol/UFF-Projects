@@ -48,7 +48,7 @@ Na pasta [src](https://github.com/felipemunarol/UFF-Projects/tree/main/src) enco
    
 ## Author Information
 
-|               |               |
+|         .      |        ;       |
 | ------------- | ------------- |
 | Author        | Felipe Munaro |
 | Content Cell  | felipemunarolima@gmail.com |
