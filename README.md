@@ -7,11 +7,11 @@ Esse repositório é destinado a projetos de pesquisa da UFF, tendo como objetiv
 
 # Pontos Abordados:
 
-- [Descrição do Projeto](https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#descri%C3%A7ao-do-projeto)
-- [Breve Introdução ao Projeto](https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#breve-introdu%C3%A7%C3%A3o-ao-projeto)
-- [Bases de Dados](https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#bases-de-dados)
+- 1.[Descrição do Projeto](https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#descri%C3%A7ao-do-projeto)
+- 2.[Breve Introdução ao Projeto](https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#breve-introdu%C3%A7%C3%A3o-ao-projeto)
+- 3.[Bases de Dados](https://github.com/felipemunarol/UFF-Projects/blob/main/README.md#bases-de-dados)
 
-### **Descriçao do Projeto:**
+### **1.Descriçao do Projeto:**
 
 **O projeto se destinou a criação de um modelo baseando-se em dados de livre acesso para a projeção da quantidade de interrupções em conjuntos de unidades consumidoras de todas as distribuidoras de energia do Brasil**. É criada, primeiramente, a etapa de ingestão de dados com um algoritmo
 que realiza a coleta de diversas fontes de livre acesso por webscrapping e com a inclusão manual de determinadas bases de informações.
@@ -22,7 +22,7 @@ em anos anteriores serão iguais nos anos seguintes, repetindo-se suas quantidad
 O resultado final é gerado para todas distribuidoras do Brasil e algumas destas concessionárias são selecionadas para realização de testes específicos.
 
 
-### **Breve Introdução ao Projeto**
+### **2.Breve Introdução ao Projeto**
 
 A continuidade no fornecimento de energia elétrica é uma preocupação constante de autoridades, Operadores de Redes de Distribuição (Distribution System Operators  -  DSOs) e consumidores. À medida que cresce a dependência da sociedade em relação à eletricidade, interrupções do sistema de energia elétrica têm impactos sociais, políticos e econômicos cada vez maiores.  Nesse contexto, a elevada frequência e duração de eventos com implicação na operação do sistema elétrico, causados por fenômenos climáticos extremos, torna-se um risco para a segurança e qualidade do fornecimento de energia. 
 
@@ -32,7 +32,7 @@ Esta previsão pode servir de apoio à tomada de decisão em diversos processos 
 
 
 
-### Bases de Dados
+### 3.Bases de Dados
 
 ### 1. Dados Meteorológicos, socioeconômicos e de caracacterísticas geográficas regionais por unidade consumidora (ANEEL), em agregação mensal.
 
