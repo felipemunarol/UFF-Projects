@@ -3,7 +3,7 @@
 Esse repositório é destinado a projetos de pesquisa da UFF, tendo como objetivo o compartilhamento dos resultados, metodologias, códigos gerados e bases de dados. 
 
 
-# Projeto Projeção da Quantidade de Interrupções em Conjuntos Elétricos para Distribuidoras brasileiras
+# Projeto de Projeção da Quantidade de Interrupções em Conjuntos Elétricos para Distribuidoras brasileiras
 
 # Pontos Abordados:
 
