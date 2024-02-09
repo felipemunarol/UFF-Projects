@@ -3,7 +3,7 @@
 Esse repositório é destinado a projetos de pesquisa da UFF, tendo como objetivo o compartilhamento dos resultados, metodologias, códigos gerados e bases de dados. 
 
 
-# Projeto de Projeção da Quantidade de Interrupções em Conjuntos Elétricos para Distribuidoras brasileiras
+# Projeto Projeção da Quantidade de Interrupções em Conjuntos Elétricos para Distribuidoras brasileiras
 
 # Pontos Abordados:
 
@@ -67,7 +67,7 @@ Obs. Alguns notebooks referentes ao webscrapping não estão na pasta. Por favor
 
 ## Dedicatória
 
-Este trabalho é um esforço conjunto entre o Instituo INERGE, a Universidade Federal Fluminense (UFF) e o laboratório FRIENDS para o atendimento a necessidades de problemas atuais de empresas privadas de distribuição de Energia. 
+Este trabalho é um esforço conjunto entre o Instituto INERGE, a Universidade Federal Fluminense (UFF) e o laboratório FRIENDS para o atendimento a necessidades de problemas atuais de empresas privadas de distribuição de Energia. 
 
 ## Suporte
 
