@@ -24,7 +24,7 @@ O resultado final é gerado para todas distribuidoras do Brasil e algumas destas
 
 ### **Breve Introdução ao Projeto**
 
-A continuidade no fornecimento de energia elétrica é uma preocupação constante de autoridades, Operadores de Redes de Distribuição (Distribution System Operators  ̶  DSOs) e consumidores. À medida que cresce a dependência da sociedade em relação à eletricidade, interrupções do sistema de energia elétrica têm impactos sociais, políticos e econômicos cada vez maiores.  Nesse contexto, a elevada frequência e duração de eventos com implicação na operação do sistema elétrico, causados por fenômenos climáticos extremos, torna-se um risco para a segurança e qualidade do fornecimento de energia. 
+A continuidade no fornecimento de energia elétrica é uma preocupação constante de autoridades, Operadores de Redes de Distribuição (Distribution System Operators  -  DSOs) e consumidores. À medida que cresce a dependência da sociedade em relação à eletricidade, interrupções do sistema de energia elétrica têm impactos sociais, políticos e econômicos cada vez maiores.  Nesse contexto, a elevada frequência e duração de eventos com implicação na operação do sistema elétrico, causados por fenômenos climáticos extremos, torna-se um risco para a segurança e qualidade do fornecimento de energia. 
 
 Além disto, a não adequação aos indicadores de qualidade do serviço previamente definidos pelos agentes reguladores pode causar penalizações às distribuidoras. A previsão da quantidade de interrupções, portanto, é um importante insumo tanto para as companhias de distribuição quanto para as entidades que tem atuação direta ou indireta no acompanhamento e fiscalização do serviço que é prestado no sistema elétrico. 
 
