@@ -51,7 +51,7 @@ Na pasta de dados existem os arquivos por Conjunto Elétrico Brasileiro (regulam
 Os dados apresentam estrutura temporal de agregação mensal e por conjuntos elétricos (na estrutura SIGEL). Para serem requeridos dados em outras estruturas por favor, entrar em contato no email dos resposáveis.
 
 
-## Códigos
+## Códigos Criados
 
 Na pasta [src](https://github.com/felipemunarol/UFF-Projects/tree/main/src) encontram-se os códigos que foram utilizados para a criação da metologia. Sendo estes dividos entre i) coleta de dados ii) processamento dos dados iii) modelagem, previsão e simulação.
 
