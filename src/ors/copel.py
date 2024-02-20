@@ -21,7 +21,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 # Raiz
-! ls '/content/drive/MyDrive/Mestrado/Ordens_servico/'
+# ! ls '/content/drive/MyDrive/Mestrado/Ordens_servico/'
 
 """# Preprocess"""
 

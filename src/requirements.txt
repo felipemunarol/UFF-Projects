@@ -1,0 +1,5 @@
+# Requirements
+pandas==1.5.3
+csv==1.0
+numpy==1.25.2
+gpd==0.13.2
