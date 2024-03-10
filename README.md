@@ -67,7 +67,11 @@ Obs. Alguns notebooks referentes ao webscrapping não estão na pasta. Por favor
 
 ## Dedicatória
 
-Este trabalho é um esforço conjunto entre o Instituto INERGE, a Universidade Federal Fluminense (UFF) e o laboratório FRIENDS para o atendimento a necessidades de problemas atuais de empresas privadas de distribuição de Energia. 
+Este trabalho é um esforço conjunto entre o Instituto INERGE, a Universidade Federal Fluminense (UFF) e o laboratório FRIENDS para o atendimento a necessidades de problemas atuais de empresas privadas de distribuição de Energia.
+
+## Citação
+
+Lima F. M. (2023). Modelo Baseado em Dados para Previsão do Número Mensal de Interrupções em Conjuntos Elétricos Utilizando Dados Públicos: v0 (Versão V0). Zenodo. https://doi.org/10.5281/zenodo.10033882
 
 ## Suporte
 
