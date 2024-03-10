@@ -71,7 +71,7 @@ Este trabalho é um esforço conjunto entre o Instituto INERGE, a Universidade F
 
 ## Citação
 
-Lima F. M. (2023). Modelo Baseado em Dados para Previsão do Número Mensal de Interrupções em Conjuntos Elétricos Utilizando Dados Públicos - Conjunto de Dados: v0 (Versão V0). Zenodo. https://doi.org/10.5281/zenodo.10033882
+Lima F. M. (2023). Modelo Baseado em Dados para Previsão do Número Mensal de Interrupções em Conjuntos Elétricos Utilizando Dados Públicos: v0 (Versão V0). Zenodo. https://doi.org/10.5281/zenodo.10033882
 
 ## Suporte
 
